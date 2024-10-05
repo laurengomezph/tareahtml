@@ -1,0 +1,54 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+header {
+    background: #986D67;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
+
+nav {
+    background: #9A7594;
+    text-align: center;
+    height: 200px;
+    line-height: 200px;
+}
+
+#divUno {
+    background: #728D64;
+    text-align: center;
+    height: 300px;
+    line-height: 300px;
+    width: 50%;
+    float: left;
+}
+
+#divDos {
+    background: #9B9565;
+    text-align: center;
+    height: 300px;
+    line-height: 300px;
+    width: 50%;
+    float: left;
+}
+
+#divTres {
+    clear: both;
+    background: #a93838;
+    text-align: center;
+    height: 200px;
+    line-height: 200px;
+}
+
+footer {
+    background: #3d2ec4;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
